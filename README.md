@@ -1,6 +1,6 @@
 ## Demo of Data Pipeline Integration from MQTT Sensor Data to an S3 bucket in AWS
 
- see below for setup details...
+ See below for setup details...
 
 
 ![demo-mqtt-setup-1](https://github.com/user-attachments/assets/142d1c78-16a2-4cdf-8620-3422586663cd)
