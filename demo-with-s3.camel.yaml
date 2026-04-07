@@ -20,7 +20,7 @@
             parameters:
               bucketNameOrArn: demo-smh
               region: us-east-1
-              accessKey: AKIA2XAEBYFO2RGDY4N7
+              accessKey: AKey...
               keyName: mqtt-msg.txt
         - log:
             id: log49a7
